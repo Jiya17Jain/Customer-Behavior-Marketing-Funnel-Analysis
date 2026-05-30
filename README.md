@@ -118,20 +118,6 @@ Contains:
 
 - Gold Conversion Rate (%)
 
-# ▶️ How to Run
-
-### Clone Repository
-
-git clone https://github.com/your-username/customer-funnel-analysis.git
-
-### Install Dependencies
-
-pip install pandas matplotlib
-
-### Run Project
-
-python customer_funnel_analysis.py
-
 # 💡 Business Recommendations
 
 - Invest more budget in channels with the highest Gold conversion rates.
